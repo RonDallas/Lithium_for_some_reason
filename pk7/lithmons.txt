@@ -623,7 +623,7 @@ presets {
    pre: HellKnight    type: hellknight    filter: "HellViscount";
    pre: HellKnight    type: hellknight    filter: "HellWarden";
    pre: HellKnight    type: hellknight    filter: "Infernoble";
-   pre: HellKnight    type: hellknight    filter: "HellPrinceAsch";
+   pre: Archvile      type: hellknight    filter: "HellPrinceAsch";
    pre: BaronOfHell   type: baron         filter: "Afrit";
    pre: BaronOfHell   type: baron         filter: "ArchonOfHell";
    pre: BaronOfHell   type: baron         filter: "BruiserDemon";
