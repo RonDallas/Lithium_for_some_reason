@@ -708,4 +708,35 @@ presets {
 	pre: Cacodemon     type: cacodemon     filter: "Slomnibus";
 }
 
+/* Pandemonia Anarchy-Monsters Monsters Only by A_D_M_E_R_A_L */
+
+"full" {
+	pre: ZombieMan     type: zombie        filter: "BeamZombie";
+	pre: ChaingunGuy   type: zombiecg      filter: "SpecOpsPlasmaGunner";
+	pre: ChaingunGuy   type: zombiecg      filter: "RepeaterZombie`";
+	pre: ChaingunGuy   type: zombiecg      filter: "AtomBlasterZombie";
+	pre: Imp           type: imp           filter: "Ghorul";
+	pre: Cacodemon     type: cacodemon     filter: "Glaucoma";
+	pre: BaronOfHell   type: baron         filter: "DarkCyberwarden";
+	pre: BaronOfHell   type: baron         filter: "Heliothrall";
+	pre: Archvile      type: baron         filter: "DarkCydestructor";
+	pre: Revenant      type: revenant      filter: "Blightghoul";
+	pre: PainElemental type: painelemental filter: "LightningElemental";
+	pre: SpiderDemon   type: mastermind    filter: "DarkDemolisher";
+	pre: CyberDemon    type: cyberdemon    filter: "DarkCardinal";
+	pre: CyberDemon    type: cyberdemon    filter: "Desolator";
+	/* Anarchic enemies */
+	pre: CyberDemon    type: hellknight    filter: "HellPrinceAsch_Anarchic";
+	pre: SpiderDemon   type: mastermind    filter: "NewSpiderMastermind_Anarchic";
+	pre: SpiderDemon   type: mastermind    filter: "Demolisher_Anarchic";
+	pre: CyberDemon    type: mastermind    filter: "SpiderMasterspark_Anarchic";
+	pre: Maulotaur     type: mastermind    filter: "Arachnophyte_Anarchic";
+	pre: CyberDemon    type: cyberdemon    filter: "NewCyberdemon_Anarchic";
+	pre: CyberDemon    type: cyberdemon    filter: "Annihilator_Anarchic";
+	pre: CyberDemon    type: cyberdemon    filter: "Eradicator_Anarchic";
+	pre: Maulotaur     type: cyberdemon    filter: "ChaosEcclesiarch_Anarchic";
+	/* Friendly */
+	pre: Nothing       type: baron         filter: "RoyalGuardRhys_AschFight";
+}
+
 /* EOF */
